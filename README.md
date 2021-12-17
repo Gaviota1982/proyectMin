@@ -1,0 +1,2 @@
+# proyectMin
+Sistema local MPyA
